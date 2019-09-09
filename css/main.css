@@ -1,0 +1,10 @@
+@import url(_normalize.css);
+@import url(_defaults.css);
+@import url(_variables.css);
+@import url(_utilities.css);
+
+.slide {
+    margin: 1rem;
+    max-width: calc(100% - 2rem);
+    border: 1px solid black;
+}
